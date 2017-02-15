@@ -1,0 +1,1 @@
+Am intampinat dificultati atunci cand am incercat sa fac merge la 2 branch-uri.Nu mi-au aparut conflicte intre aceste branch-uri,cu toate ca continutul in cele 2 fisiere tomer era diferit.La aplicarea comenzii git merge nou,imi afisa Already up-to-date.
